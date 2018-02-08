@@ -1,10 +1,17 @@
+
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  4 13:02:01 2017
 
-@author: Sheah, Christina 
+# Sample coding of a final project that involves some basic natural language processing, linear regression, 
+# and random forests. I partnered with another classmate for this project.
 
-"""
+# Remember to cite WWW / SIGIR papers if you use the data:
+# R. He, J. McAuley. Modeling the visual evolution of fashion trends with one-class collaborative filtering. WWW, 2016
+# J. McAuley, C. Targett, J. Shi, A. van den Hengel. Image-based recommendations on styles and substitutes. SIGIR, 2015
+
+# Created on Sun Jun  4 13:02:01 2017
+# @author: Sheah, Christina 
+
+#--------------------------------------
 
 import pandas as pd
 import gzip
